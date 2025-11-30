@@ -1,7 +1,7 @@
-# **Project Title: Astro-Guard: Autonomous Multi-Agent Swarm for Aerospace Quality Control
+# Project Title: Astro-Guard: Autonomous Multi-Agent Swarm for Aerospace Quality Control
 Track: Enterprise Agents**
 
-# **1. The Pitch**
+# **1. The Pitch
 
 ## **Problem**
 In high-stakes aerospace manufacturing, **quality assurance (QA) is the bottleneck. Human review of sensor telemetry is slow and prone to fatigue, while traditional automated thresholds miss complex, multi-variable failure modes** (e.g., a "thermal runaway" that is only dangerous when correlated with specific vibration harmonics). Missing these anomalies leads to catastrophic engine failure and millions in lost assets.
