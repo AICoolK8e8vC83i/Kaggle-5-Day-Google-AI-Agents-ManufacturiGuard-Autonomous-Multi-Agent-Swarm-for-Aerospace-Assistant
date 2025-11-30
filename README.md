@@ -77,4 +77,4 @@ The pipeline_agent will iterate through the DataFrame rows.
 
 The system outputs structured logs and appends critical failures to CRITICAL_FAILURE_LOGBOOK.
 
-Repository/Notebook Link: (Github)[https://github.com/AICoolK8e8vC83i/Astro-ManufacturiGuard-Autonomous-Multi-Agent-Swarm-for-Aerospace-Assistant]
+Repository/Notebook Link: https://github.com/AICoolK8e8vC83i/Astro-ManufacturiGuard-Autonomous-Multi-Agent-Swarm-for-Aerospace-Assistant
